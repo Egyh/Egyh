@@ -8,5 +8,5 @@ I am mainly studying Ruby and Python.
 
 ![](https://komarev.com/ghpvc/?username=Egyh)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egyh)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egyh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egyh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egyh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
